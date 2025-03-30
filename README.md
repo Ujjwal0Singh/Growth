@@ -4,14 +4,6 @@
 - Start up the app using `npm start`
 </details>
 
-### Completion Instructions
-
-<details>
-<summary>Functionality to be added</summary>
-<br/>
-
-The app must have the following functionalities
-
 - **Login Route**
 
   - When invalid credentials are provided and the **Login** button is clicked, then the error message received from the response should be displayed
